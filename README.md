@@ -2,6 +2,8 @@
 
 An interactive educational web application built with React + Vite that teaches the differences between three types of security vulnerability scans using visual demonstrations.
 
+🔗 **Live Demo**: [https://react-security-scan-game.vercel.app](https://react-security-scan-game.vercel.app)
+
 ## 🎯 Purpose
 
 This application is designed as a teaching tool to help students, security professionals, and IT teams understand the key differences between:
